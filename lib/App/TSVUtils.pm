@@ -102,7 +102,7 @@ sub tsv_dump {
 1;
 # ABSTRACT: CLI utilities related to TSV
 
-=for Pod::Coverage ^(csvutil)$
+=for Pod::Coverage ^(tsvutil)$
 
 =head1 DESCRIPTION
 
@@ -111,7 +111,7 @@ This distribution contains the following CLI utilities:
 # INSERT_EXECS_LIST
 
 
-=head1 prepend:SEE ALSO
+=head1 SEE ALSO
 
 L<App::SerializeUtils> provides utilities like L<tsv2csv>, etc.
 
