@@ -113,6 +113,11 @@ This distribution contains the following CLI utilities:
 
 =head1 SEE ALSO
 
-L<App::SerializeUtils> provides utilities like L<tsv2csv>, etc.
+L<App::SerializeUtils>
+
+L<App::LTSVUtils> (which includes utilities like L<ltsv2tsv>, L<tsv2ltsv>, among
+others).
+
+L<App::CSVUtils> (which includes L<csv2tsv>, L<tsv2csv> among others).
 
 =cut
